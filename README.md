@@ -24,6 +24,7 @@ Focado no desenvolvimento de soluções baseadas em dados, análise preditiva e 
 ### Os Meus Projetos
 
 Desenvolvo e documento projetos práticos focados em transformar dados brutos em insights acionáveis e modelos preditivos robustos — desde a limpeza e engenharia de dados (ETL) até à avaliação de algoritmos de Machine Learning. 
+*(Podes explorar o código e a documentação completa nos repositórios fixados abaixo 👇)*
 
 
 
