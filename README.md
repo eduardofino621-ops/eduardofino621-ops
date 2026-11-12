@@ -1,16 +1,36 @@
-## Hi there 👋
+### Olá! 👋 Sou estudante de Inteligência Artificial e Ciência de Dados.
 
-<!--
-**eduardofino621-ops/eduardofino621-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focado no desenvolvimento de soluções baseadas em dados, análise preditiva e machine learning aplicadas à resolução de desafios reais. 
+
+
+
+---
+
+
+
+### 🛠️ Stack Tecnológica
+
+**Linguagens:** Python, SQL
+**Bibliotecas & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+**Ferramentas:** Git, GitHub, Jupyter
+
+
+---
+
+
+
+### Os Meus Projetos
+
+Desenvolvo e documento projetos práticos focados em transformar dados brutos em insights acionáveis e modelos preditivos robustos — desde a limpeza e engenharia de dados (ETL) até à avaliação de algoritmos de Machine Learning. 
+
+
+
+---
+
+
+
+### 📬 Contacto Profissional
+
+Conecta-te comigo no [LinkedIn](https://www.linkedin.com/in/o-teu-nome)
