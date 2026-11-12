@@ -33,4 +33,4 @@ Desenvolvo e documento projetos práticos focados em transformar dados brutos em
 
 ### 📬 Contacto Profissional
 
-Conecta-te comigo no [LinkedIn](https://www.linkedin.com/in/o-teu-nome)
+Conecta-te comigo no [LinkedIn](https://www.linkedin.com/in/eduardo-fino-4448b044a/)
