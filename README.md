@@ -12,9 +12,9 @@ Focado no desenvolvimento de soluções baseadas em dados, análise preditiva e 
 
 ### 🛠️ Stack Tecnológica
 
-**Linguagens:** Python, SQL
-**Bibliotecas & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-**Ferramentas:** Git, GitHub, Jupyter
+* **Linguagens:** Python, SQL
+* **Bibliotecas & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+* **Ferramentas:** Git, GitHub, Jupyter
 
 
 ---
