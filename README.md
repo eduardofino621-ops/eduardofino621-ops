@@ -1,37 +1,30 @@
-### Olá! 👋 Sou estudante de Inteligência Artificial e Ciência de Dados.
+### Olá! 👋 Sou o Eduardo Fino
 
-
-
-Focado no desenvolvimento de soluções baseadas em dados, análise preditiva e machine learning aplicadas à resolução de desafios reais. 
-
-
+Estudante de **Licenciatura em Inteligência Artificial e Ciência de Dados** na Universidade de Coimbra (DEI-FCT). Focado no desenvolvimento de soluções baseadas em dados, análise preditiva e sistemas inteligentes aplicados a desafios reais.
 
 ---
-
-
 
 ### 🛠️ Stack Tecnológica
 
-* **Linguagens:** Python, SQL
-* **Bibliotecas & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-* **Ferramentas:** Git, GitHub, Jupyter
-
-
----
-
-
-
-### Os Meus Projetos
-
-Desenvolvo e documento projetos práticos focados em transformar dados brutos em insights acionáveis e modelos preditivos robustos — desde a limpeza e engenharia de dados (ETL) até à avaliação de algoritmos de Machine Learning. 
-
-*(Podes explorar o código e a documentação completa nos repositórios fixados abaixo 👇)*
-
+* **Linguagens:** Python, SQL, Java
+* **Bibliotecas & IA:** Pandas, NumPy, Scikit-Learn, LangChain, LangGraph, Pydantic
+* **Desenvolvimento & Apps:** Streamlit, Jupyter Notebook, Git, GitHub
+* **Dados & Infraestrutura:** InfluxDB, Grafana, MQTT, Miniconda
 
 ---
 
+### 🚀 Projetos em Destaque
 
+Desenvolvo e documento projetos práticos focados em transformar dados brutos em insights acionáveis e modelos preditivos robustos:
+
+* **[Desperdíci0%](https://github.com/eduardofino621-ops/desperdicio0%):** Sistema multi-agente para retalho focado em preços dinâmicos, redução de desperdício alimentar e gestão de restrições (CSP). (*Python, LangChain, LangGraph, Streamlit*)
+* **[Plataforma IoT Ambiental](https://github.com/eduardofino621-ops/iot-environmental):** Arquitetura orientada a eventos para simulação de sensores, telemetria em tempo real e visualização de métricas. (*Python, MQTT, InfluxDB, Grafana*)
+
+*(Podes explorar o código completo e os respetivos READMEs detalhados nos repositórios fixados abaixo 👇)*
+
+---
 
 ### 📬 Contacto Profissional
 
-Conecta-te comigo no [LinkedIn](https://www.linkedin.com/in/eduardo-fino-4448b044a/)
+* **LinkedIn:** [Conecta-te comigo](https://www.linkedin.com/in/eduardo-fino-4448b044a/)
+* **Email:** finoecoelho@etik.com
