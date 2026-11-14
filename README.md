@@ -17,8 +17,8 @@ Estudante de **Licenciatura em Inteligência Artificial e Ciência de Dados** na
 
 Desenvolvo e documento projetos práticos focados em transformar dados brutos em insights acionáveis e modelos preditivos robustos:
 
-* **[Desperdíci0%](https://github.com/eduardofino621-ops/desperdicio0%):** Sistema multi-agente para retalho focado em preços dinâmicos, redução de desperdício alimentar e gestão de restrições (CSP). (*Python, LangChain, LangGraph, Streamlit*)
-* **[Plataforma IoT Ambiental](https://github.com/eduardofino621-ops/iot-environmental):** Arquitetura orientada a eventos para simulação de sensores, telemetria em tempo real e visualização de métricas. (*Python, MQTT, InfluxDB, Grafana*)
+* **[Desperdíci0%](https://github.com/eduardofino621-ops/desperdicio0-system):** Sistema multi-agente para retalho focado em preços dinâmicos, redução de desperdício alimentar e gestão de restrições (CSP). (*Python, LangChain, LangGraph, Streamlit*)
+* **[Plataforma IoT Ambiental](https://github.com/eduardofino621-ops/iot-environmental-monitoring):** Arquitetura orientada a eventos para simulação de sensores, telemetria em tempo real e visualização de métricas. (*Python, MQTT, InfluxDB, Grafana*)
 
 *(Podes explorar o código completo e os respetivos READMEs detalhados nos repositórios fixados abaixo 👇)*
 
